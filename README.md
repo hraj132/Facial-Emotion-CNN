@@ -42,5 +42,4 @@ The image above shows the training and validation accuracy and loss over epochs 
 
 The confusion matrix is a visual representation of the model's performance in classifying emotions. It shows the number of correct and incorrect predictions for each emotion category. The confusion matrix helps evaluate the model's accuracy and identify any patterns or biases in the predictions.
 
-### Issues & Suggestions
-If any issues and suggestions to me, you can create an [issue](https://github.com/Siddhant-Agarwal4583/Facial-Emotion-Recognition/issues).
+ 
